@@ -1,7 +1,7 @@
 specVersion: v2
 specMinorVersion: 2
 meta:
-    name: test
+
     image: project-test
     description: ""
     labels: []
